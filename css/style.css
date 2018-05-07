@@ -1,40 +1,41 @@
 
  .navbar {    
-   background: black;  
+   background: darkblue;  
    text-transform: uppercase;
-   font-weight: 700;   
+   font-weight: 900;   
    border: none;    
  }
  .navbar .navbar-brand {
-   color: white;    
+   color: Black;    
  }
  .navbar .navbar-brand:hover{
-   color: white;
+   color: White;
  }  
 
  .navbar .navbar-nav li a {
-   color: white;
+   color: Black;
  }
  .navbar .navbar-nav li a:hover {
-   color: gray;
+   color: White;
  }
  
  .navbar-toggle{
    color: #fff;
-   border: 2px solid #fff;
+   border: 6px solid #fff;
  }   
 
  header {
-   background: gray;
-   color: white;
+   background: darkblue;
+   color: black;
+   font-weight: 900;
  }   
  header img {    
    display: block;
    margin: 0 auto 20px;
  }   
  header .container {   
-   padding-top: 100px;   
-   padding-bottom: 100px;    
+   padding-top: 60px;   
+   padding-bottom: 60px;    
  }   
  header .intro-text .name {
    font-size: 3.75em;

@@ -1,2 +1,0 @@
-# Advanced Portfolio Starter Code
-
